@@ -1,1 +1,18 @@
-Learn more about New+ by visiting https://aka.ms/PowerToysOverview_NewPlus
+<?php
+    echo "this is category page
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ";
+?>

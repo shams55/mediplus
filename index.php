@@ -76,3 +76,4 @@
 		<!-- /End Newsletter Area -->
 		
 		<?php get_footer('one'); ?>
+		
