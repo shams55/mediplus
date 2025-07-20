@@ -104,7 +104,7 @@
                          // );
                     }
                }
-
+               
                if(!function_exists('mymeta')){
                     function mymeta(){
                          add_meta_box(
@@ -142,8 +142,9 @@
                add_action('save_post', 'mymetasave');
 
           }
+             
      }
      
-    require get_template_directory() . "/inc/custompost/slider/slider.php";
+ require get_template_directory(). "/inc/custompost/slider/slider.php";
 
 ?>
